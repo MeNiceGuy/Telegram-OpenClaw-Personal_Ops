@@ -1,0 +1,7 @@
+Repo Description Options
+
+1. Telegram-controlled personal AI ops stack built with OpenClaw, GPT-powered reasoning, and local workflow automation.
+
+2. A practical personal AI operations system using Telegram as the control surface, OpenClaw as the runtime, and local tools for execution.
+
+3. Remote AI operator system for practical personal workflows, local automation, and real-world task support.
