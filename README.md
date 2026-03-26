@@ -90,8 +90,4 @@ See `ARCHITECTURE.md` and `DIAGRAM.md` for more detail.
 
 This repository is best understood as a system blueprint and project showcase, not a plug-and-play universal installer. Personal agent systems are highly environment-specific and depend on local runtime setup, tools, permissions, and messaging integrations.
 
-## Best final additions before publishing
 
-- add 2 to 4 real screenshots
-- optionally add a banner image
-- optionally add a short demo clip link
